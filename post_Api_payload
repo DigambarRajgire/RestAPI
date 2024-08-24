@@ -1,0 +1,23 @@
+[
+    {
+
+        "firstName": "Sunny",
+        "lastName": "Sapkal",
+        "emailId": "ss@gamil.com",
+        "department": "JAva BackEnd"
+    },
+    {
+
+        "firstName": "Digambar",
+        "lastName": "Rajgire",
+        "emailId": "Ddsr@gamil.com",
+        "department": "SDE-I"
+    },
+    {
+
+        "firstName": "Sanket",
+        "lastName": "Narkhede",
+        "emailId": "Svn@gamil.com",
+        "department": "Data Engg"
+    }
+]
